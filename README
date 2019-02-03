@@ -1,6 +1,6 @@
 Project Snake
 
-Design a classic arcade games Snake 
+Designed a classic arcade game-Snake 
 Used 32x32 RGB Matrix board for display and on-board accelerometer, Nordic transceiver to wirelessly control the player’s moments.
 MCU:LPC LPC1758
 RTOS:FreeRTOS
